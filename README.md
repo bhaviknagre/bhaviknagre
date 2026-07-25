@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavik Nagre</h1>
 <h3 align="center">Exploring Data to Unlock Business Value | Data Analysis & Visualization Enthusiast</h3>
 
+
+- Portfolio (https://bhaviknagre.github.io/portfolio/)
+
 - Project [Hotel Booking Data Analysis](https://github.com/bhaviknagre/Hotel-Booking-Data-Analysis)
 
 - 🌱 I’m currently learning **Machine learning and MLOPS**
