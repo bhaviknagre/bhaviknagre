@@ -183,15 +183,10 @@ A data analytics project that transforms cricket match data into meaningful perf
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhaviknagre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaviknagre&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhaviknagre&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaviknagre&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
